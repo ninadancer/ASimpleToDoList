@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15G31" minimumToolsVersion="Xcode 7.0">
+    <entity name="AllList" representedClassName=".AllList" syncable="YES">
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="presentList" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="ListUser" inverseName="remainingList" inverseEntity="ListUser" syncable="YES"/>
+    </entity>
+    <entity name="ListUser" representedClassName=".ListUser" syncable="YES">
+        <attribute name="screenName" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="remainingList" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="AllList" inverseName="presentList" inverseEntity="AllList" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="AllList" positionX="-63" positionY="-18" width="128" height="73"/>
+        <element name="ListUser" positionX="115" positionY="-18" width="128" height="73"/>
+    </elements>
+</model>

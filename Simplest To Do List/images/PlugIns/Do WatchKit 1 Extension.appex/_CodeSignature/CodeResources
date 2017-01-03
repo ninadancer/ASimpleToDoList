@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Do WatchKit 1 App.app/AppIcon24x24@2x.png</key>
+		<data>
+		GRr0k2LoccwICJafYBTC0i/ic6I=
+		</data>
+		<key>Do WatchKit 1 App.app/AppIcon27.5x27.5@2x.png</key>
+		<data>
+		eeRLX8AzKFWlqTupMQt0RCPRk1o=
+		</data>
+		<key>Do WatchKit 1 App.app/AppIcon29x29@2x.png</key>
+		<data>
+		zTF647Scq6Qsz0S7J4MJ1uVOcLE=
+		</data>
+		<key>Do WatchKit 1 App.app/AppIcon29x29@3x.png</key>
+		<data>
+		d7TcxCwwAFGuga8werqwNRmdkmI=
+		</data>
+		<key>Do WatchKit 1 App.app/AppIcon40x40@2x.png</key>
+		<data>
+		bKvHSS8H2Va3IxUZ3m3ifyWWtVI=
+		</data>
+		<key>Do WatchKit 1 App.app/AppIcon44x44@2x.png</key>
+		<data>
+		XUxoeEbjMTTNR3TLYedHAERp7/Y=
+		</data>
+		<key>Do WatchKit 1 App.app/AppIcon86x86@2x.png</key>
+		<data>
+		iAwisohThSP+OQdj5ow6nM3lwsM=
+		</data>
+		<key>Do WatchKit 1 App.app/AppIcon98x98@2x.png</key>
+		<data>
+		7jTq5ScaFSPxRPnbo4YvSZTJigI=
+		</data>
+		<key>Do WatchKit 1 App.app/Do WatchKit 1 App</key>
+		<data>
+		iLVjQ7hylw0SDeN7tqVjoCD8kIo=
+		</data>
+		<key>Do WatchKit 1 App.app/Info.plist</key>
+		<data>
+		Z3ZAlbCnFQMakflos8IYKLshGrE=
+		</data>
+		<key>Do WatchKit 1 App.app/PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Do WatchKit 1 App.app/_CodeSignature/CodeResources</key>
+		<data>
+		KoN1xQJ2QkkksiyKxAnonzBkS6M=
+		</data>
+		<key>Do WatchKit 1 App.app/_WatchKitStub/WK</key>
+		<data>
+		3u1pnzoZehfA0rR0gs7VcaaFjCI=
+		</data>
+		<key>Do WatchKit 1 App.app/archived-expanded-entitlements.xcent</key>
+		<data>
+		onmPeufaIHZ6wJ5YyUwSSNZ8NRk=
+		</data>
+		<key>Do WatchKit 1 App.app/en.lproj/Interface.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			65Qr7uPZeldiTNQiWK0xVrmzUoM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Do WatchKit 1 App.app/watch_10_color@2x.png</key>
+		<data>
+		Orsb8RLofeD6kFmze+H86uwur8g=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_1_color@2x.png</key>
+		<data>
+		gxRc9o/e0f8t90R/Klm0Alx/zQI=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_2_color@2x.png</key>
+		<data>
+		F8mh5ylx0WClx+mj4N3q9SQrH98=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_3_color@2x.png</key>
+		<data>
+		7hZ3NOxWb7nPgTxgQfZay3w8gow=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_4_color@2x.png</key>
+		<data>
+		soKA9rsjWXG2NKaHteGrhvuX1Iw=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_5_color@2x.png</key>
+		<data>
+		wWnlzIcAUSETieMSgrXK/Z2cxoQ=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_6_color@2x.png</key>
+		<data>
+		CcSvBtZLtx1XWMjpPmGg03mHrdo=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_7_color@2x.png</key>
+		<data>
+		h5VJ9bLk9VNCiSl8Zr4BdYJsICQ=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_9_color@2x.png</key>
+		<data>
+		o9HJwve8OsgcXpuLx5MfpNwplLU=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_cell_horizon@2x.png</key>
+		<data>
+		6K8OD1EYnq33XB8KQ0uAMAG63aU=
+		</data>
+		<key>Eng.strings</key>
+		<data>
+		K0qYe1uNZX2j5vKNf/g5u8NEiIw=
+		</data>
+		<key>Info.plist</key>
+		<data>
+		cjhwDz5NF7Y/5mpvNxns5GLE8qs=
+		</data>
+		<key>Jp.strings</key>
+		<data>
+		kgkGAByjAXDO8Im4DFys6/VgIGI=
+		</data>
+		<key>Kor.strings</key>
+		<data>
+		2ORRyXw3kaWYqjkD0yQ/47aywpE=
+		</data>
+		<key>archived-expanded-entitlements.xcent</key>
+		<data>
+		onmPeufaIHZ6wJ5YyUwSSNZ8NRk=
+		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gQ5kuRy8vMTN8aL3f9D6sA1TaXk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Hi3Gl/2Ic5lWo9JCVHhsYXlP7oU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kjyp9OltJni+m4lM+epxE/cVnlk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>watch_10_color@2x.png</key>
+		<data>
+		Orsb8RLofeD6kFmze+H86uwur8g=
+		</data>
+		<key>watch_1_color@2x.png</key>
+		<data>
+		gxRc9o/e0f8t90R/Klm0Alx/zQI=
+		</data>
+		<key>watch_2_color@2x.png</key>
+		<data>
+		F8mh5ylx0WClx+mj4N3q9SQrH98=
+		</data>
+		<key>watch_3_color@2x.png</key>
+		<data>
+		7hZ3NOxWb7nPgTxgQfZay3w8gow=
+		</data>
+		<key>watch_4_color@2x.png</key>
+		<data>
+		soKA9rsjWXG2NKaHteGrhvuX1Iw=
+		</data>
+		<key>watch_5_color@2x.png</key>
+		<data>
+		wWnlzIcAUSETieMSgrXK/Z2cxoQ=
+		</data>
+		<key>watch_6_color@2x.png</key>
+		<data>
+		CcSvBtZLtx1XWMjpPmGg03mHrdo=
+		</data>
+		<key>watch_7_color@2x.png</key>
+		<data>
+		h5VJ9bLk9VNCiSl8Zr4BdYJsICQ=
+		</data>
+		<key>watch_9_color@2x.png</key>
+		<data>
+		o9HJwve8OsgcXpuLx5MfpNwplLU=
+		</data>
+		<key>watch_cell_horizon@2x.png</key>
+		<data>
+		6K8OD1EYnq33XB8KQ0uAMAG63aU=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>Do WatchKit 1 App.app/AppIcon24x24@2x.png</key>
+		<data>
+		GRr0k2LoccwICJafYBTC0i/ic6I=
+		</data>
+		<key>Do WatchKit 1 App.app/AppIcon27.5x27.5@2x.png</key>
+		<data>
+		eeRLX8AzKFWlqTupMQt0RCPRk1o=
+		</data>
+		<key>Do WatchKit 1 App.app/AppIcon29x29@2x.png</key>
+		<data>
+		zTF647Scq6Qsz0S7J4MJ1uVOcLE=
+		</data>
+		<key>Do WatchKit 1 App.app/AppIcon29x29@3x.png</key>
+		<data>
+		d7TcxCwwAFGuga8werqwNRmdkmI=
+		</data>
+		<key>Do WatchKit 1 App.app/AppIcon40x40@2x.png</key>
+		<data>
+		bKvHSS8H2Va3IxUZ3m3ifyWWtVI=
+		</data>
+		<key>Do WatchKit 1 App.app/AppIcon44x44@2x.png</key>
+		<data>
+		XUxoeEbjMTTNR3TLYedHAERp7/Y=
+		</data>
+		<key>Do WatchKit 1 App.app/AppIcon86x86@2x.png</key>
+		<data>
+		iAwisohThSP+OQdj5ow6nM3lwsM=
+		</data>
+		<key>Do WatchKit 1 App.app/AppIcon98x98@2x.png</key>
+		<data>
+		7jTq5ScaFSPxRPnbo4YvSZTJigI=
+		</data>
+		<key>Do WatchKit 1 App.app/Do WatchKit 1 App</key>
+		<data>
+		iLVjQ7hylw0SDeN7tqVjoCD8kIo=
+		</data>
+		<key>Do WatchKit 1 App.app/Info.plist</key>
+		<data>
+		Z3ZAlbCnFQMakflos8IYKLshGrE=
+		</data>
+		<key>Do WatchKit 1 App.app/PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Do WatchKit 1 App.app/_CodeSignature/CodeResources</key>
+		<data>
+		KoN1xQJ2QkkksiyKxAnonzBkS6M=
+		</data>
+		<key>Do WatchKit 1 App.app/_WatchKitStub/WK</key>
+		<data>
+		3u1pnzoZehfA0rR0gs7VcaaFjCI=
+		</data>
+		<key>Do WatchKit 1 App.app/archived-expanded-entitlements.xcent</key>
+		<data>
+		onmPeufaIHZ6wJ5YyUwSSNZ8NRk=
+		</data>
+		<key>Do WatchKit 1 App.app/en.lproj/Interface.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			65Qr7uPZeldiTNQiWK0xVrmzUoM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Do WatchKit 1 App.app/watch_10_color@2x.png</key>
+		<data>
+		Orsb8RLofeD6kFmze+H86uwur8g=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_1_color@2x.png</key>
+		<data>
+		gxRc9o/e0f8t90R/Klm0Alx/zQI=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_2_color@2x.png</key>
+		<data>
+		F8mh5ylx0WClx+mj4N3q9SQrH98=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_3_color@2x.png</key>
+		<data>
+		7hZ3NOxWb7nPgTxgQfZay3w8gow=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_4_color@2x.png</key>
+		<data>
+		soKA9rsjWXG2NKaHteGrhvuX1Iw=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_5_color@2x.png</key>
+		<data>
+		wWnlzIcAUSETieMSgrXK/Z2cxoQ=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_6_color@2x.png</key>
+		<data>
+		CcSvBtZLtx1XWMjpPmGg03mHrdo=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_7_color@2x.png</key>
+		<data>
+		h5VJ9bLk9VNCiSl8Zr4BdYJsICQ=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_9_color@2x.png</key>
+		<data>
+		o9HJwve8OsgcXpuLx5MfpNwplLU=
+		</data>
+		<key>Do WatchKit 1 App.app/watch_cell_horizon@2x.png</key>
+		<data>
+		6K8OD1EYnq33XB8KQ0uAMAG63aU=
+		</data>
+		<key>Eng.strings</key>
+		<data>
+		K0qYe1uNZX2j5vKNf/g5u8NEiIw=
+		</data>
+		<key>Jp.strings</key>
+		<data>
+		kgkGAByjAXDO8Im4DFys6/VgIGI=
+		</data>
+		<key>Kor.strings</key>
+		<data>
+		2ORRyXw3kaWYqjkD0yQ/47aywpE=
+		</data>
+		<key>archived-expanded-entitlements.xcent</key>
+		<data>
+		onmPeufaIHZ6wJ5YyUwSSNZ8NRk=
+		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gQ5kuRy8vMTN8aL3f9D6sA1TaXk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Hi3Gl/2Ic5lWo9JCVHhsYXlP7oU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kjyp9OltJni+m4lM+epxE/cVnlk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>watch_10_color@2x.png</key>
+		<data>
+		Orsb8RLofeD6kFmze+H86uwur8g=
+		</data>
+		<key>watch_1_color@2x.png</key>
+		<data>
+		gxRc9o/e0f8t90R/Klm0Alx/zQI=
+		</data>
+		<key>watch_2_color@2x.png</key>
+		<data>
+		F8mh5ylx0WClx+mj4N3q9SQrH98=
+		</data>
+		<key>watch_3_color@2x.png</key>
+		<data>
+		7hZ3NOxWb7nPgTxgQfZay3w8gow=
+		</data>
+		<key>watch_4_color@2x.png</key>
+		<data>
+		soKA9rsjWXG2NKaHteGrhvuX1Iw=
+		</data>
+		<key>watch_5_color@2x.png</key>
+		<data>
+		wWnlzIcAUSETieMSgrXK/Z2cxoQ=
+		</data>
+		<key>watch_6_color@2x.png</key>
+		<data>
+		CcSvBtZLtx1XWMjpPmGg03mHrdo=
+		</data>
+		<key>watch_7_color@2x.png</key>
+		<data>
+		h5VJ9bLk9VNCiSl8Zr4BdYJsICQ=
+		</data>
+		<key>watch_9_color@2x.png</key>
+		<data>
+		o9HJwve8OsgcXpuLx5MfpNwplLU=
+		</data>
+		<key>watch_cell_horizon@2x.png</key>
+		<data>
+		6K8OD1EYnq33XB8KQ0uAMAG63aU=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^</key>
+		<true/>
+		<key>^(Frameworks/[^/]+\.framework/|PlugIns/[^/]+\.appex/|PlugIns/[^/]+\.appex/Frameworks/[^/]+\.framework/|())SC_Info/[^/]+\.(sinf|supf|supp)$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<integer>10000</integer>
+		</dict>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Watch/[^/]+\.app/(Frameworks/[^/]+\.framework/|PlugIns/[^/]+\.appex/|PlugIns/[^/]+\.appex/Frameworks/[^/]+\.framework/)SC_Info/[^/]+\.(sinf|supf|supp)$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<integer>10000</integer>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks/[^/]+\.framework/|PlugIns/[^/]+\.appex/|PlugIns/[^/]+\.appex/Frameworks/[^/]+\.framework/|())SC_Info/[^/]+\.(sinf|supf|supp)$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<integer>10000</integer>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Watch/[^/]+\.app/(Frameworks/[^/]+\.framework/|PlugIns/[^/]+\.appex/|PlugIns/[^/]+\.appex/Frameworks/[^/]+\.framework/)SC_Info/[^/]+\.(sinf|supf|supp)$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<integer>10000</integer>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
